@@ -1,6 +1,6 @@
 #### presentación ####
 
-[img1]: https://ibb.co/Gsb8Dz3
+![IMG-20210102-WA0008](https://user-images.githubusercontent.com/54563333/111922664-c07c9c80-8a79-11eb-9033-1395b4bc61da.jpg)
 
 Hola soy Nahuel, vivo en luján y tengo 27 años.
 Laburo con mi viejo en un negocio y en mis tiempos libres tengo los siguientes 
